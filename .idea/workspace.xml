@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0508435-ef65-4b91-839d-3704ca8b270e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="e0508435-ef65-4b91-839d-3704ca8b270e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,11 +12,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="7-moreJOIN.sql" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/7-moreJOIN.sql">
+      <file leaf-file-name="9-SelfJOIN.sql" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/9-SelfJOIN.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="112" column="0" lean-forward="true" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+            <state relative-caret-position="855">
+              <caret line="57" column="13" lean-forward="false" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -40,6 +38,7 @@
         <option value="$PROJECT_DIR$/6-JOIN.sql" />
         <option value="$PROJECT_DIR$/5-SUMandCOUNT.sql" />
         <option value="$PROJECT_DIR$/7-moreJOIN.sql" />
+        <option value="$PROJECT_DIR$/9-SelfJOIN.sql" />
       </list>
     </option>
   </component>
@@ -293,6 +292,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
           <caret line="112" column="0" lean-forward="true" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-SelfJOIN.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" column="13" lean-forward="false" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
           <folding />
         </state>
       </provider>

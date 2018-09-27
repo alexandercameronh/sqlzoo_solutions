@@ -4,4 +4,4 @@ Here are my solutions to the [SQL Zoo](www.sqlzoo.net) exercises. Hopefully anyo
 finds these useful d:)
 
 
-
+questions, comments, concerns: alexandercameronh at gmail
